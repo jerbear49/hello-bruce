@@ -1,0 +1,17 @@
+body {
+    background-color: green;
+}
+
+div {
+    margin-left: 575px;
+    margin-top: 150px;
+}
+
+h1 {
+    color: chartreuse;
+}
+
+p {
+    color: chartreuse;
+    margin-left: 60px;
+}
